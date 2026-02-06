@@ -1,2 +1,2 @@
-# codexia
-An AI-powered code editor inspired by Cursor,
+# Codexia
+An AI-powered code editor inspired by Cursor.
