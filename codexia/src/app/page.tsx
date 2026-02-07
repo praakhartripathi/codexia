@@ -1,6 +1,10 @@
+import { Button } from "@/components/ui/button";
+
 function Home() {
   return (
-    <div className="font-medium">Hello World</div>
+    <Button>
+      click me
+    </Button>
   );
 }
 
